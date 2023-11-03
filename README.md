@@ -14,5 +14,4 @@
 
 <center>
   <img src=https://github.com/Arely2409/DMI_Flutter_Practica14_200559/assets/84819096/042f614c-636f-4c95-a1db-3381dfeda145 alt="Ejemplo" width="250" height="500" align="left">
-  <img src=https://github.com/Arely2409/DMI_Flutter_Practica7_200559/assets/84819096/7af222a2-ea78-41b8-a940-729d10a6300f alt="Ejemplo" width="250" height="500" align="left">
 </center>
