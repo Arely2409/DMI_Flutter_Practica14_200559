@@ -1,0 +1,4 @@
+#Fri Oct 27 14:12:23 CST 2023
+base.0=C\:\\Users\\PC-13\\Downloads\\DMI_Flutter_Practica7_200559\\build\\app\\intermediates\\dex\\debug\\mergeDexDebug\\classes.dex
+path.0=classes.dex
+renamed.0=classes.dex
